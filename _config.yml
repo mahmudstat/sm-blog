@@ -4,7 +4,7 @@ title: "Stat Mania Blog"
 description: "পরিসংখ্যান কী ও কেন? পরিসংখ্যান আমাদের জীবনে কীভাবে কাজে লাগে? মেশিন লার্নিংয়ের সাথে পরিসংখ্যানের কী সম্পর্ক? সহজে কীভাবে পরিসংখ্যান বুঝব? এমনসব বিষয় নিয়েই সাজানো হয়েছে ওয়েবসাইটটি।"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: blog
+baseurl: 
 google_analytics: ''
 disqus: mahmudblog
 mailchimp-list: 'https://github.us7.list-manage.com/subscribe/post?u=fb245679a93a6d0bd6681211b&amp;id=f02c47251c'
